@@ -1,0 +1,3 @@
+https://github.com/defnull/pixelflut/archive/master.zip
+
+java -jar target/pixelwar*-jar-with-dependencies.jar
